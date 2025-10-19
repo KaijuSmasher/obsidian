@@ -11,13 +11,28 @@
             "id": "f975384dc05ce2ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "2 - Source Material/Pictures/Pasted image 20251019174249.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251019174249"
+            }
+          },
+          {
+            "id": "9df60f180b1b4465",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2 - Source Material/Pictures/Pasted image 20251019183306.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251019183306"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 - Source Material/Pictures/Pasted image 20251019183306.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20251019183306"
             }
           },
           {
@@ -185,8 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f975384dc05ce2ee",
+  "active": "b52f7567a9fcae43",
   "lastOpenFiles": [
+    "2 - Source Material/Pictures/Pasted image 20251019174358.png",
+    "2 - Source Material/Pictures/Pasted image 20251019174249.png",
+    "2 - Source Material/Untitled.md",
+    "2 - Source Material/Pictures",
+    "2 - Source Material/Books/Untitled",
     "KaijuSmasher-Obsidian/README.md",
     "KaijuSmasher-Obsidian",
     "Gacha Checklists/ZZZ.md",
@@ -197,23 +218,20 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Pasted image 20251019193124.png",
-    "Pasted image 20251019183306.png",
-    "Pasted image 20251019183227.png",
-    "Pasted image 20251019183200.png",
-    "Pasted image 20251019173955.png",
-    "Pasted image 20251019180245.png",
-    "Pasted image 20251019175737.png",
-    "Pasted image 20251019174926.png",
-    "Pasted image 20251019174922.png",
-    "Pasted image 20251019174607.png",
+    "2 - Source Material/Pictures/Pasted image 20251019193124.png",
+    "2 - Source Material/Pictures/Pasted image 20251019183306.png",
+    "2 - Source Material/Pictures/Pasted image 20251019183227.png",
+    "2 - Source Material/Pictures/Pasted image 20251019183200.png",
+    "2 - Source Material/Pictures/Pasted image 20251019173955.png",
+    "2 - Source Material/Pictures/Pasted image 20251019180245.png",
+    "2 - Source Material/Pictures/Pasted image 20251019175737.png",
+    "2 - Source Material/Pictures/Pasted image 20251019174926.png",
+    "2 - Source Material/Pictures/Pasted image 20251019174922.png",
     "Gacha Checklists/HSR.md",
     "Gacha Checklists",
     "6 - Zettelkasten",
     "5 - Templates",
     "4 - Indexes",
-    "3 - Tags",
-    "2 - Source Material/Other",
     "Welcome.md",
     "Drawing/Fundamentals/Forms.md",
     "Drawing/Fundamentals/Shapes.md",

@@ -11,14 +11,10 @@
             "id": "f975384dc05ce2ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KaijuSmasher-Obsidian/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -80,8 +76,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -152,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KaijuSmasher-Obsidian/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -172,11 +167,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c8c04186e67b3b1",
+  "active": "f975384dc05ce2ee",
   "lastOpenFiles": [
     "KaijuSmasher-Obsidian/README.md",
     "KaijuSmasher-Obsidian",

@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d920bdb91cafe6d6",
+        "id": "9a4a55f32aa0ef99",
         "type": "tabs",
         "children": [
           {
-            "id": "f975384dc05ce2ee",
+            "id": "c500554b04822614",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Pictures/Pasted image 20251019174249.png"
+                "file": "1 - Rough Notes/GDI Chapter 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251019174249"
-            }
-          },
-          {
-            "id": "9df60f180b1b4465",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2 - Source Material/Pictures/Pasted image 20251019183306.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251019183306"
+              "icon": "lucide-file",
+              "title": "GDI Chapter 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,15 +80,16 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -163,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Pictures/Pasted image 20251019183306.png",
+                "file": "1 - Rough Notes/GDI Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251019183306"
+              "title": "Outline of GDI Chapter 1"
             }
           },
           {
@@ -183,11 +173,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b52f7567a9fcae43",
+  "active": "c500554b04822614",
   "lastOpenFiles": [
+    "2 - Source Material/Pictures/Pasted image 20251020132811.png",
+    "2 - Source Material/Pictures/Pasted image 20251019183306.png",
     "2 - Source Material/Pictures/Pasted image 20251019174358.png",
     "2 - Source Material/Pictures/Pasted image 20251019174249.png",
     "2 - Source Material/Untitled.md",
@@ -219,14 +212,12 @@
     "Untitled 1.base",
     "Untitled.base",
     "2 - Source Material/Pictures/Pasted image 20251019193124.png",
-    "2 - Source Material/Pictures/Pasted image 20251019183306.png",
     "2 - Source Material/Pictures/Pasted image 20251019183227.png",
     "2 - Source Material/Pictures/Pasted image 20251019183200.png",
     "2 - Source Material/Pictures/Pasted image 20251019173955.png",
     "2 - Source Material/Pictures/Pasted image 20251019180245.png",
     "2 - Source Material/Pictures/Pasted image 20251019175737.png",
     "2 - Source Material/Pictures/Pasted image 20251019174926.png",
-    "2 - Source Material/Pictures/Pasted image 20251019174922.png",
     "Gacha Checklists/HSR.md",
     "Gacha Checklists",
     "6 - Zettelkasten",

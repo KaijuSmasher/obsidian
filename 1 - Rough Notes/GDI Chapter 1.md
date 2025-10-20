@@ -174,7 +174,7 @@ The ISO/OSI model is a very important theoretical model for communication layers
 
 ### Physical Layer
 - Task:
-	- Transmission of unstructured bitstreams through physical connections
+	- Transmission of unstructured bit-streams through physical connections
 	- Transmission is unreliable
 - Core Points:
 	- Description of:
@@ -183,7 +183,21 @@ The ISO/OSI model is a very important theoretical model for communication layers
 	- Systems don't translate bits: Sending and receiving bits by antenna, network cards, modems, ISDN-cards
 	- Forwarding of bits:
 		- Hub: copies bits from a link onto more other links
-		- Repeater: freshens signals up, increases physical distance
+		- Repeater: freshens signals up by reading, rewriting and re-sending them, increases physical distance
+
+### Simple Example
+- A very simple layer operating at one megabit per second (Mb/s):
+	- One bit is transmitted by sender every microsecond
+	- One bit is received by receiver every microsecond
+- Sender operation:
+	- To transmit bit=1, set V=5 during one microsecond
+	- To transmit bit=0, set V=-5 during one microsecond
+- Receiver operation:
+	- if V=5, bit=1 decoded
+	- if V=-5, bit=0 decoded
+- Possible problems:
+	- Electromagnetic perturbations
+	- Clock drift (one instance being faster than the other)
 
 ### Data Link Layer
 - Task:
@@ -193,8 +207,8 @@ The ISO/OSI model is a very important theoretical model for communication layers
 	- Creation of Frames: Structured groups of bits = Data packages
 	- Checksum for failure recognition and correction
 	- Synchronization
-	- Access Control on shared media
-	- Protocols: CSMA/CD, CSMA/CA, Ethernet, Token-based, HDLC, LLC, etc
+	- Access Control on shared media (Air in WLAN)
+	- Protocols: CSMA/CD, CSMA/CA, Ethernet, Token-based, HDLC (High-Level Data Link Control), LLC (Logical Link Control IEEE 802.2), PPP (Point-to-Point Protocol),  etc
 	- Devices:
 		- Switch
 		- Bridge
@@ -202,8 +216,8 @@ The ISO/OSI model is a very important theoretical model for communication layers
 		- Increase distance of networks over physical barriers
 
 ### Bridge vs Switch
-- Bridge: Enables LANs with (possibly) different layer 2 technologies to exchange frames
-- Switch: Connects nodes of same LAN technology by extra wires -> Star topology
+- Bridge: Enables different LANs with (possibly) different layer 2 technologies to exchange frames -> Example: Bus + Token Ring
+- Switch: Connects nodes of same LAN technology by extra wires -> Example: Star
 
 ### Two Types of Data Link Layers
 - WAN type data link layers (PPP, HDLC):
@@ -217,10 +231,55 @@ The ISO/OSI model is a very important theoretical model for communication layers
 ![[Pasted image 20251019193124.png]]
 - Transmissions of frames between hosts directly connected at the physical layer or directly attached to the same LAN
 - Most data link layers have a maximum frame length
-- Connectionless Service:
+- Connection-less Service:
 	- Unreliable transmission: frames can be lost
 	- Transmission errors are usually detected
 - Connection-oriented Service:
 	- Reliable or unreliable transmissions
 
 ### What is a MAC Address?
+The MAC-address is 48 Bits (6 Bytes) long in case of Ethernet or WLAN networks. The address is written in a hexadecimal format. It usually uses a byte by byte notation, separated by using "-" or ":" -> Example: 08-00-20-ae-fd-7e or 08:00:20:ae:fd:7e. The order of characters can also be different, there's the canonical and the "Bit-reversed"-representation. The canonical one is preferred.
+
+A MAC-address is a unique 12-digit long hexadecimal number assigned to a network interface card (NIC) by the manufacturer. It acts as a unique physical or hardware address for devices on a local network (LAN) and is used to ensure data is routed correctly to the intended device.
+
+### Network Layer
+- Task:
+	- Path-finding between end nodes on basis of source- and target-address
+	- Sometimes construction, maintenance and dismantling of connections over multiple nodes
+	- Communication over multiple networks with heterogenic technologies
+- Core Points:
+	- Data-packages: Packets
+	- Fragmentation and de-fragmentation in case of packet being to long for Maximum Transfer Units (MTUs)
+	- Devices:
+		- Routers: interpret Network Layer Header and copy packets from one network to another
+	- Protocols: 
+		- IP, 
+		- IPX
+
+### IP Routers Connecting Different Technologies
+![[Pasted image 20251020132811.png]]
+
+### Transport Layer
+- Task:
+	- Provisioning of virtual end-to-end transmission between corresponding processes in end-systems
+- Core Points:
+	- Division of data-streams into segments (data-packets)
+	- Connection-oriented transmission -> Example: TCP
+	- Connection-less transmission -> Example: UDP
+	- End-to-end flow-control
+	- Congestion-control
+	- Safe transmission: error-free information, not packet-loss, no packet duplication, order preservation
+	- Mechanisms: Checksum, Sequence Numbers, Acknowledgements, Re-transmission
+	- Protocols: UDP, TCP, SCTP, DCCP
+
+### Session Layer
+- Task:
+	- Creates sessions between applications, manages them and closes them
+	- Recovery of broken down connections
+	- Searches for Services -> with the help of indexes
+- Core Points:
+	- Dialog-control: Sets and surveil's the rules for dialogs and data-transmission
+	- Minimal functionality: connection creation, closing connection
+	- Process synchronization: set back to synchronization points in case of error or recovery when connection breaks down
+	- Examples: data backup and load distribution
+	- Not available in most protocol suits

@@ -282,4 +282,86 @@ A MAC-address is a unique 12-digit long hexadecimal number assigned to a network
 	- Minimal functionality: connection creation, closing connection
 	- Process synchronization: set back to synchronization points in case of error or recovery when connection breaks down
 	- Examples: data backup and load distribution
-	- Not available in most protocol suits
+	- Not available in most protocol suites
+
+### Presentation Layer
+- Task:
+	- Data encryption
+	- Data compression
+	- Data conversion
+- Core Points:
+	- Application specific format transformation
+	- Example: character set transformation EBCDIC <-> ASCII
+	- Not available in most protocol suites
+
+### Application Layer
+- Task:
+	- Everything which is not handled by the other layers
+	- Manages syntax and semantics of messages to support the communication of application processes
+- Core Points:
+	- Application level protocols: SMTP, FTP, TELNET, HTTP, RTP
+	- Enables the communication between application of different manufactorers -> Browsers, VoIP, etc
+	- There are application layer gateways (ALGs), which encrypt and convert application protocols, transcoding of media-streams 
+
+### TCP/IP Reference Model
+![[Pasted image 20251020143718.png]]
+- Alternative layering from the pov of the internet
+- Applications are allowed to lay directly on the IP -> ICMP, IGMP, RSVP
+- Session and Presentation layer are not available
+- Physical and Data Link Layer fuse into the Network Access Layer
+- Strong limitations: Transport = TCP/UDP, Mediation = IP
+
+### Alternative Internet Protocol Stack
+![[Pasted image 20251020144138.png]]
+- Application: supporting network applications -> FTP, SMTP, HTTP
+- Transport: host-host data transfer -> TCP, UDP
+- Network: forwarding of packets from source to destination -> IP, routing protocols
+- Link: data transfer between neighboring network elements
+	- PPP, Ethernet
+	- Comprises logical link control (LLC) and medium access control (MAC)
+- Physical: bits "on the wire"
+
+### Encapsulation
+![[Pasted image 20251020144544.png]]
+
+### Visibility of Layers alongside a path
+![[Pasted image 20251020145513.png]]
+- The Internet protocol (IP) enables the communication over the confines of heterogenic networks
+- Baseline for data exchange on the internet
+
+### Addresses within the Internet Protocol Stack
+![[Pasted image 20251020145957.png]]
+- Addresses (SAPs):
+	- Port numbers
+	- Protocol number
+	- IP addresses
+	- Layer-2 addresses (MAC addresses)
+- Deployment of new applications:
+	- Distribute software
+	- usually use specific port for application and either UDP or TCP
+	- Advertise IP address or DNS name
+
+### The Hourglass Model
+![[Pasted image 20251020150221.png]]
+
+## Criticism of Reference Model
+- ISO/OSI:
+	- Uneven distribution of functions of the individual layers -> Presentation, Session, Application
+	- Failed the implementation in real world
+	- ITU-T is slow on standardizing new protocols
+- TCP/IP:
+	- Fast distribution over BDS/UNIX: good implementation, easy to use, for free
+	- IETF fast on standardizing new protocols
+	- Specific description of the status quo,  not general
+- 5 Layer Model:
+	- ISO/OSI without session and presentation layer
+	- Most usable for taxonomies
+- Danger: lowers the ways of thinking
+- Allow no information exchange between layers
+	- Cross Layer Design (CLD): Exchange of informations over possibly multiple layers
+	- Examples: using physical layer information to optimize application layer, location-aware services, TCP reacts to ECN-bit (explicit congestion notification) in IP Header
+- Classification of Protocols to specific layers sometimes problematic:
+	- TCP/IP/MPLD/Ethernet: MPLS counts as layer 2.5
+	- TCP/IP1/UMTS-Layers/IP2/Ethernet: IP is used in network and link layer -> only theoretic
+- Example:![[Pasted image 20251020151729.png]]
+- 

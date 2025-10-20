@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a4a55f32aa0ef99",
+        "id": "d77a55268b7ee4b2",
         "type": "tabs",
         "children": [
           {
-            "id": "c500554b04822614",
+            "id": "a399408467ba7dcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/GDI Chapter 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GDI Chapter 1"
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -153,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/GDI Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GDI Chapter 1"
+              "title": "Outline"
             }
           },
           {
@@ -192,12 +186,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c500554b04822614",
+  "active": "a399408467ba7dcd",
   "lastOpenFiles": [
+    "2 - Source Material/Pictures/Pasted image 20251020144138.png",
+    "1 - Rough Notes/GDI Chapter 1.md",
+    "2 - Source Material/Pictures/Pasted image 20251020151729.png",
+    "2 - Source Material/Pictures/Pasted image 20251020150221.png",
+    "2 - Source Material/Pictures/Pasted image 20251020145957.png",
+    "2 - Source Material/Pictures/Pasted image 20251020145513.png",
+    "2 - Source Material/Pictures/Pasted image 20251020144544.png",
+    "2 - Source Material/Pictures/Pasted image 20251020143718.png",
     "2 - Source Material/Pictures/Pasted image 20251020132811.png",
     "2 - Source Material/Pictures/Pasted image 20251019183306.png",
     "2 - Source Material/Pictures/Pasted image 20251019174358.png",
-    "2 - Source Material/Pictures/Pasted image 20251019174249.png",
     "2 - Source Material/Untitled.md",
     "2 - Source Material/Pictures",
     "2 - Source Material/Books/Untitled",
@@ -206,18 +207,10 @@
     "Gacha Checklists/ZZZ.md",
     "Gacha Checklists/WuWa.md",
     "Gacha Checklists/GFL2.md",
-    "1 - Rough Notes/GDI Chapter 1.md",
     "2025-10-19.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "2 - Source Material/Pictures/Pasted image 20251019193124.png",
-    "2 - Source Material/Pictures/Pasted image 20251019183227.png",
-    "2 - Source Material/Pictures/Pasted image 20251019183200.png",
-    "2 - Source Material/Pictures/Pasted image 20251019173955.png",
-    "2 - Source Material/Pictures/Pasted image 20251019180245.png",
-    "2 - Source Material/Pictures/Pasted image 20251019175737.png",
-    "2 - Source Material/Pictures/Pasted image 20251019174926.png",
     "Gacha Checklists/HSR.md",
     "Gacha Checklists",
     "6 - Zettelkasten",

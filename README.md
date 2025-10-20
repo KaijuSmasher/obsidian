@@ -1,3 +1,1 @@
-# Obsidian
-My Obsidian Vault
-cool edit
+This is my Obsidian vault. If you are able to see this repository, please contact me at @KaijuSmasher in Discord - Thank you!

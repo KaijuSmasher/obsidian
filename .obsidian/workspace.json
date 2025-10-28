@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "951247708a0ae732",
+        "id": "d920bdb91cafe6d6",
         "type": "tabs",
         "children": [
           {
-            "id": "918c32d969a32398",
+            "id": "9df60f180b1b4465",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1 - Rough Notes/GDI Chapter 1.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Pictures/Pasted image 20251028130329.png"
               },
-              "icon": "lucide-file",
-              "title": "GDI Chapter 1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251028130329"
             }
           }
         ]
@@ -80,15 +78,16 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -172,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,20 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "918c32d969a32398",
+  "active": "9df60f180b1b4465",
   "lastOpenFiles": [
-    "README.md",
-    "2 - Source Material/Pictures/Pasted image 20251020144138.png",
+    "1 - Rough Notes/GDI Chapter 2.md",
+    "2 - Source Material/Pictures/Pasted image 20251028143805.png",
+    "2 - Source Material/Pictures/Pasted image 20251028143151.png",
+    "2 - Source Material/Pictures/Pasted image 20251028143042.png",
+    "2 - Source Material/Pictures/Pasted image 20251028142450.png",
+    "2 - Source Material/Pictures/Pasted image 20251028142211.png",
+    "2 - Source Material/Pictures/Pasted image 20251028141701.png",
+    "2 - Source Material/Pictures/Pasted image 20251028140109.png",
+    "2 - Source Material/Pictures/Pasted image 20251028134631.png",
+    "2 - Source Material/Pictures/Pasted image 20251028134143.png",
+    "2 - Source Material/Pictures/Pasted image 20251028133930.png",
     "1 - Rough Notes/GDI Chapter 1.md",
-    "2 - Source Material/Pictures/Pasted image 20251020151729.png",
-    "2 - Source Material/Pictures/Pasted image 20251020150221.png",
-    "2 - Source Material/Pictures/Pasted image 20251020145957.png",
-    "2 - Source Material/Pictures/Pasted image 20251020145513.png",
-    "2 - Source Material/Pictures/Pasted image 20251020144544.png",
-    "2 - Source Material/Pictures/Pasted image 20251020143718.png",
-    "2 - Source Material/Pictures/Pasted image 20251020132811.png",
-    "2 - Source Material/Pictures/Pasted image 20251019183306.png",
-    "2 - Source Material/Pictures/Pasted image 20251019174358.png",
     "2 - Source Material/Untitled.md",
     "2 - Source Material/Pictures",
     "2 - Source Material/Books/Untitled",

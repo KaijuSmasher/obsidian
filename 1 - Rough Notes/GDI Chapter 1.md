@@ -1,4 +1,4 @@
- # Networking Principles
+# Networking Principles
 
 ## Networks
 
@@ -25,7 +25,7 @@ Important to note is, that networks nowadays aren't really independent of each o
 - Running network applications
 - Internet standards
 
-In conclusion the internet, the Internet is a network of networks which is loosely hierarchical and split up into the public internet versus the private intranet. It's dependent on contracts which networks are connected with each other.
+In conclusion the Internet is a network of networks which is loosely hierarchical and split up into the public internet versus the private intranet. It's dependent on contracts which networks are connected with each other.
 
 ### Be aware of the difference
 - The internet: is the physical infrastructure needed to transfer data world wide

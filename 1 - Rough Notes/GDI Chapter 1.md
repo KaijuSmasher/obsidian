@@ -364,4 +364,8 @@ A MAC-address is a unique 12-digit long hexadecimal number assigned to a network
 	- TCP/IP/MPLD/Ethernet: MPLS counts as layer 2.5
 	- TCP/IP1/UMTS-Layers/IP2/Ethernet: IP is used in network and link layer -> only theoretic
 - Example:![[Pasted image 20251020151729.png]]
-- 
+
+### Extra Sachen zum anschauen
+Unterschied Server physikalisch und als Dienst
+Ablauf nochmals durchschauen
+Trailer

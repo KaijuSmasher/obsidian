@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 417.5
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -221,18 +221,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "128dfe68d788bdc8",
   "lastOpenFiles": [
     "1 - Rough Notes/GDI Chapter 1.md",
-    "conflict-files-obsidian-git.md",
     "1 - Rough Notes/GDI Chapter 2.md",
-    "1 - Rough Notes/Mathematik Thema 4 Vollständige Induktion.md",
-    "1 - Rough Notes/Mathematik Thema 3 Abbildungen.md",
     "1 - Rough Notes/Mathematik Thema 2 Mengen.md",
     "1 - Rough Notes/Mathematik Thema 1 Logik.md",
+    "conflict-files-obsidian-git.md",
+    "1 - Rough Notes/Mathematik Thema 4 Vollständige Induktion.md",
+    "1 - Rough Notes/Mathematik Thema 3 Abbildungen.md",
     "2 - Source Material/Pictures/Pasted image 20251028153139.png",
     "2 - Source Material/Pictures/Pasted image 20251028171610.png",
     "2 - Source Material/Pictures/Pasted image 20251028171402.png",

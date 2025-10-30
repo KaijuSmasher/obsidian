@@ -3,15 +3,65 @@
   "colorBackground": false,
   "palette": [
     {
-      "id": "WZ_BuVydQF_6ZVbXLips3",
-      "name": "Dark Purple",
-      "value": "#78317d"
+      "id": "OOhxqKkNjgr36FObLSuyR",
+      "name": "Purple",
+      "value": "#610c9f"
     },
     {
-      "id": "mZePUPLKpKx-jCi9xTx15",
-      "name": "Lavender",
-      "value": "#c288d7"
+      "id": "X6SyBXNzDMz9sBsP8ifeW",
+      "name": "Warm",
+      "value": "#da0c81"
+    },
+    {
+      "id": "okU8HB77KrbE5N98rQUDF",
+      "name": "Pink",
+      "value": "#e95793"
+    },
+    {
+      "id": "60RDCcsJBChUK9iEbQxlT",
+      "name": "Violet",
+      "value": "#940b92"
+    },
+    {
+      "id": "p8jLIM3CQV9RoMxk_W_VC",
+      "name": "Maroon",
+      "value": "#cd0e47"
+    },
+    {
+      "id": "lWwKp2BuIQQk57vmb-GSD",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "0S-iLYyGRr0JdXHfFk7dR",
+      "name": "Orange",
+      "value": "#f78d60"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "6 - Zettelkasten",
+      "color": "X6SyBXNzDMz9sBsP8ifeW"
+    },
+    {
+      "path": "5 - Templates",
+      "color": "60RDCcsJBChUK9iEbQxlT"
+    },
+    {
+      "path": "4 - Indexes",
+      "color": "okU8HB77KrbE5N98rQUDF"
+    },
+    {
+      "path": "3 - Tags",
+      "color": "lWwKp2BuIQQk57vmb-GSD"
+    },
+    {
+      "path": "1 - Rough Notes",
+      "color": "p8jLIM3CQV9RoMxk_W_VC"
+    },
+    {
+      "path": "2 - Source Material",
+      "color": "0S-iLYyGRr0JdXHfFk7dR"
+    }
+  ]
 }

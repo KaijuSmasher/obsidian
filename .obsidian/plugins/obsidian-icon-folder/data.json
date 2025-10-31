@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGamepad",
       "TiNote",
       "TiSourceCode",
       "LiTags",
-      "LiList",
-      "TiArchive"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "6 - Zettelkasten": "TiArchive",
   "3 - Tags": "LiTags",
   "2 - Source Material": "TiSourceCode",
-  "1 - Rough Notes": "TiNote"
+  "1 - Rough Notes": "TiNote",
+  "Gacha Checklists": "LiGamepad"
 }

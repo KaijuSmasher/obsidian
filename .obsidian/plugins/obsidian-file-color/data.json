@@ -36,6 +36,11 @@
       "id": "0S-iLYyGRr0JdXHfFk7dR",
       "name": "Orange",
       "value": "#f78d60"
+    },
+    {
+      "id": "zli9WheZG-zVDwXZ71mwD",
+      "name": "Lavender",
+      "value": "#a538ff"
     }
   ],
   "fileColors": [
@@ -62,6 +67,10 @@
     {
       "path": "2 - Source Material",
       "color": "0S-iLYyGRr0JdXHfFk7dR"
+    },
+    {
+      "path": "Gacha Checklists",
+      "color": "zli9WheZG-zVDwXZ71mwD"
     }
   ]
 }

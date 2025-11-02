@@ -21,7 +21,7 @@ Mengen können durch **unterschiedliche Notationen** angegeben werden:
 
 Inklusionsrelationen beschreiben, wie die **Elemente zweier Mengen zueinander in Beziehung stehen**, wie z.B. die Teilmengen oder Gleichheitsbeziehung.
 
-- $M \subseteq N :\iff (x\in M \implies x \in N)$ "M ist eine *Teilmenge* von N"
+- $M \subseteq N :\iff (x\in M \Rightarrow x \in N)$ "M ist eine *Teilmenge* von N"
 - $M = N :\iff (M \subseteq N \land N \subseteq M) \iff (x \in M \Leftrightarrow x \in N)$ 
 - $M \neq N :\iff \neg(M = N) \iff ((\exists x \in M : x \notin N) \lor (\exists x \in N : x \notin M))$
 - $M \subsetneqq N :\iff (M \subseteq N \land M \neq N)$ "M ist eine *echte Teilmenge* von N"
@@ -106,7 +106,7 @@ Es seien $M, N, P$ Mengen
 
 ## Paradoxon von Russel
 
-Man muss bei der Definition von Mengen mittels Eigenschaften vorsichtig sein!
+**Man muss bei der Definition von Mengen mittels Eigenschaften vorsichtig sein!**
 Betrachte die "Menge"
 $$M = \{X \ | \ X \ ist \ Menge \ \land \ X \notin X\}$$
 aller Mengen, die sich nicht selbst als Element ernthalten!

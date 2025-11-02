@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.50694274902344
+    "width": 351.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -211,7 +212,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b52f7567a9fcae43",
+  "active": "45d71134242012ae",
   "lastOpenFiles": [
     "Mathematik Thema 2.pdf",
     "1 - Rough Notes/Mathematik Thema 2.md",

@@ -118,3 +118,8 @@ Angenommen, $M$ wäre eine Menge. Dann sind zwei Fälle zu unterscheiden.
 
 Also kann keiner der beiden Fälle auftreten, und wir haben insgesamt einen Widerspruch hergeleitet.
 **Fazit:** M ist keine Menge! Auch die *Menge aller Mengen* gibt es *nicht*!
+
+
+---
+
+**~={orange}NOCHMAL NACHSCHAUEN WEGEN DE MORGANSCHE REGEL IN RELATION ZU MENGEN!!!=~**

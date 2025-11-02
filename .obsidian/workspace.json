@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Mathematik Thema 1 Logik.md",
+                "file": "1 - Rough Notes/Mathematik Thema 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematik Thema 1 Logik"
+              "title": "Mathematik Thema 2"
             }
           }
         ]
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 351.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -213,11 +214,13 @@
   },
   "active": "45d71134242012ae",
   "lastOpenFiles": [
+    "Operationen von Mengen Abbildung.png",
+    "Mathematik Thema 2.pdf",
     "README.md",
+    "1 - Rough Notes/Mathematik Thema 1 Logik.md",
     "1 - Rough Notes/GDI Chapter 2.md",
     "1 - Rough Notes/GDI Chapter 1.md",
-    "1 - Rough Notes/Mathematik Thema 2 Mengen.md",
-    "1 - Rough Notes/Mathematik Thema 1 Logik.md",
+    "1 - Rough Notes/Mathematik Thema 2.md",
     "conflict-files-obsidian-git.md",
     "1 - Rough Notes/Mathematik Thema 4 Vollständige Induktion.md",
     "1 - Rough Notes/Mathematik Thema 3 Abbildungen.md",
@@ -247,7 +250,6 @@
     "Gacha Checklists",
     "6 - Zettelkasten",
     "5 - Templates",
-    "4 - Indexes",
     "Welcome.md",
     "Drawing/Fundamentals/Forms.md",
     "Drawing/Fundamentals/Shapes.md",

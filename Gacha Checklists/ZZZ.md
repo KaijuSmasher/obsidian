@@ -1,5 +1,5 @@
 # Current Goal: Farm new Support Set
-# Anomaly Carry (Playable)
+# Anomaly Carry (Done)
 ## Miyabi (Done)
 - [x] Character Level 60
 - [x] Weapon Level 60
@@ -10,25 +10,27 @@
 - [x] Weapon Level 60
 - [x] Skills
 - [x] Disc Drives
-## Yuzuha (Assist)
+## Yuzuha (Done)
 - [x] Character Level 60
 - [x] Weapon Level 60
 - [x] Skills
-- [ ] Disc Drives
+- [x] Disc Drives
 ## Robin (Done)
 - [x] Bangboo Level 60
 - [x] Rank 5
-# Sheer Ink (Playable)
+# Sheer Force Attackers (Playable)
 ## Yixuan (Done, Assist, Dodge)
 - [x] Character Level 60
 - [x] Weapon Level 60
 - [x] Skills
 - [x] Disc Drives
-## Ju Fufu (Done, Basic Attack)
+# Sheer Force Stunners
+## Ju Fufu (Done)
 - [x] Character Level 60
 - [x] Weapon Level 60
 - [x] Skills
 - [x] Disc Drives
+# Sheer Force Supports
 ## Pan Yinhu (Replaced Next Patch)
 - [x] Character Level 60
 - [x] Weapon Level 60

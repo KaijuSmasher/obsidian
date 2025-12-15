@@ -9,6 +9,8 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "basic": 1
+  },
   "_version": 3
 }

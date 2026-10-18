@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Notizen",
-      "path": "Mathematik für Informatik 1 - Analysis/Notizen/Notizen.md"
+      "basename": "info1-00 - Einführung",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
     },
     {
       "basename": "Aufschriebe",
       "path": "Mathematik für Informatik 1 - Analysis/Aufschriebe/Aufschriebe.md"
+    },
+    {
+      "basename": "Notizen",
+      "path": "Mathematik für Informatik 1 - Analysis/Notizen/Notizen.md"
     },
     {
       "basename": "Aufgaben - Altklausuren",
@@ -27,10 +31,6 @@
     {
       "basename": "Notizen",
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Notizen/Notizen.md"
-    },
-    {
-      "basename": "info1-00 - Einführung",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
     },
     {
       "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",

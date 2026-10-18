@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b813a33e16870f",
+        "id": "8d2e9f4e7dd8aa7c",
         "type": "tabs",
         "children": [
           {
-            "id": "07ecd957bf135070",
+            "id": "1f5b85c222f9a4cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik für Informatik 1 - Analysis/Notizen/Notizen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notizen"
+              "title": "New tab"
             }
           }
         ]
@@ -82,15 +78,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 384.5110321044922
+    "width": 425.109375
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -194,8 +190,9 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "b52f7567a9fcae43",
+  "active": "1f5b85c222f9a4cf",
   "lastOpenFiles": [
+    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf",
     "Mathematik für Informatik 1 - Analysis/Aufschriebe/Aufschriebe.md",
     "Mathematik für Informatik 1 - Analysis/Notizen/Notizen.md",
     "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md",
@@ -207,7 +204,6 @@
     "Technische Informatik 1 - Digitaltechnik/Aufgaben-Altklausuren/Aufgaben-Altklausuren.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Notizen/Notizen.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf",
     "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf",
     "Praktische Informatik 1 - Deklarative Programmierung/Praktische Informatik 1 - Deklarative Programmierung.md",
     "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf",
@@ -234,7 +230,6 @@
     "Test.md",
     "Gacha Checklists/GBF.md",
     "Gacha Checklists/GFL2.md",
-    "Gacha Checklists/ZZZ.md",
     "2 - Source Material/Pictures/Pasted image 20251028153407.png",
     "2 - Source Material/Pictures/Pasted image 20251020145957.png",
     "2 - Source Material/Pictures/Operationen von Mengen Abbildung.png",

@@ -33,12 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "5 - Templates": "TiTemplate",
-  "4 - Indexes": "LiList",
-  "6 - Zettelkasten": "TiArchive",
-  "3 - Tags": "LiTags",
-  "2 - Source Material": "TiSourceCode",
-  "1 - Rough Notes": "TiNote",
-  "Gacha Checklists": "LiGamepad"
+  }
 }

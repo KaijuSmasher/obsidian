@@ -11,10 +11,12 @@
             "id": "07ecd957bf135070",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Praktische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02-Boolesche-Algebra"
             }
           }
         ]
@@ -190,8 +192,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "07ecd957bf135070",
+  "active": "b52f7567a9fcae43",
   "lastOpenFiles": [
+    "Praktische Informatik 1 - Digitaltechnik/Notizen",
+    "Praktische Informatik 1 - Digitaltechnik/Vorlesungsfolien",
+    "Praktische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf",
+    "Praktische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf",
+    "Praktische Informatik 1 - Digitaltechnik",
     "6 - Zettelkasten/How to hold the Pen.md",
     "6 - Zettelkasten/Using the different Pivots of the Arm.md",
     "2 - Source Material/Pictures/Tripod Grip.png",
@@ -223,10 +230,6 @@
     "Uni-Skripte/GDI/GI_2_Network.pdf",
     "Uni-Skripte/GDI/GI_7_P2P.pdf",
     "Uni-Skripte/GDI/GI_6_Application_2.pdf",
-    "Uni-Skripte/GDI/GI_5_Middleboxes.pdf",
-    "Uni-Skripte/GDI/GI_4_Application_1.pdf",
-    "Uni-Skripte/GDI/GI_3_Transport.pdf",
-    "Untitled 3.base",
     "1 - Rough Notes/Mathematik Thema 1.md",
     "1 - Rough Notes/GDI Chapter 2.md",
     "1 - Rough Notes/Mathematik Thema 2.md",

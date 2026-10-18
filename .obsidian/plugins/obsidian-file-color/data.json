@@ -45,8 +45,16 @@
   ],
   "fileColors": [
     {
-      "path": "Praktische Informatik 1 - Digitaltechnik",
+      "path": "Technische Informatik 1 - Digitaltechnik",
       "color": "X6SyBXNzDMz9sBsP8ifeW"
+    },
+    {
+      "path": "Praktische Informatik 1 - Deklarative Programmierung",
+      "color": "p8jLIM3CQV9RoMxk_W_VC"
+    },
+    {
+      "path": "Mathematik für Informatik 1 - Analysis",
+      "color": "0S-iLYyGRr0JdXHfFk7dR"
     }
   ]
 }

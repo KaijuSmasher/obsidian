@@ -9,7 +9,17 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "codierung": 1,
+    "digitaltechnik": 2,
+    "einheiten": 3,
+    "hardware": 4,
+    "index": 5,
+    "klausur": 6,
+    "signale": 7,
+    "ti-1": 8,
+    "zahlensysteme": 9
+  },
   "tagColors": {},
   "_version": 4
 }

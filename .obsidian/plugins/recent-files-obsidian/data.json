@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "01 - Einführung",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/01 - Einführung.md"
+    },
+    {
+      "basename": "Analog vs digital",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Analog vs digital.md"
+    },
+    {
+      "basename": "Abstraktionsebenen im Hardware-Entwurf",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
+    },
+    {
+      "basename": "Stellenwertsysteme",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Stellenwertsysteme.md"
+    },
+    {
+      "basename": "02-Boolesche-Algebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
+    },
+    {
+      "basename": "01-Einführung",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf"
+    },
+    {
+      "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf"
+    },
+    {
       "basename": "info1-00 - Einführung",
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
     },
@@ -17,10 +45,6 @@
       "path": "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md"
     },
     {
-      "basename": "Notizen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Notizen/Notizen.md"
-    },
-    {
       "basename": "Aufgaben-Altklausuren",
       "path": "Technische Informatik 1 - Digitaltechnik/Aufgaben-Altklausuren/Aufgaben-Altklausuren.md"
     },
@@ -31,18 +55,6 @@
     {
       "basename": "Notizen",
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Notizen/Notizen.md"
-    },
-    {
-      "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf"
-    },
-    {
-      "basename": "02-Boolesche-Algebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
-    },
-    {
-      "basename": "01-Einführung",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf"
     },
     {
       "basename": "README",

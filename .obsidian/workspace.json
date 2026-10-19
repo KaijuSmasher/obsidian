@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d2e9f4e7dd8aa7c",
+        "id": "f7b813a33e16870f",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5b85c222f9a4cf",
+            "id": "07ecd957bf135070",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/01 - Einführung.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01 - Einführung"
             }
           }
         ]
@@ -78,15 +82,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.109375
+    "width": 384.5110321044922
   },
   "right": {
     "id": "016c7c6c5876c5a2",
@@ -190,11 +194,27 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "1f5b85c222f9a4cf",
+  "active": "07ecd957bf135070",
   "lastOpenFiles": [
-    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf",
-    "Mathematik für Informatik 1 - Analysis/Aufschriebe/Aufschriebe.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Analog vs digital.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/01 - Einführung.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/TI-1 01 Einführung.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Stellenwertsysteme.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Untitled",
+    "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Zahlensysteme umrechnen.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Quantisierung und Abtastung.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Hardware ist anders.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Einheiten der Digitaltechnik.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Codierung Grundbegriffe.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Binärcodierung und Signalpegel.md",
+    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung",
+    "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf",
+    "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung 1.pdf",
+    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf",
     "Mathematik für Informatik 1 - Analysis/Notizen/Notizen.md",
+    "Mathematik für Informatik 1 - Analysis/Aufschriebe/Aufschriebe.md",
     "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md",
     "Technische Informatik 1 - Digitaltechnik/Notizen/Notizen.md",
     "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren",
@@ -204,13 +224,8 @@
     "Technische Informatik 1 - Digitaltechnik/Aufgaben-Altklausuren/Aufgaben-Altklausuren.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Notizen/Notizen.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf",
     "Praktische Informatik 1 - Deklarative Programmierung/Praktische Informatik 1 - Deklarative Programmierung.md",
-    "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf",
     "Praktische Informatik 1 - Deklarative Programmierung/Untitled.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Aufgaben - Altklausuren",
-    "Praktische Informatik 1 - Deklarative Programmierung/Notizen",
-    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien",
     "6 - Zettelkasten/How to hold the Pen.md",
     "6 - Zettelkasten/Using the different Pivots of the Arm.md",
     "2 - Source Material/Pictures/Tripod Grip.png",
@@ -219,17 +234,7 @@
     "6 - Zettelkasten/Filler.md",
     "3 - Tags/Art Fundamentals.md",
     "3 - Tags/Art Tools.md",
-    "3 - Tags/Filler.md",
-    "3 - Tags/art fundamentals.md",
-    "README.md",
-    "5 - Templates/Full Note.md",
     "2 - Source Material/Pictures/Pivots of the Arm.jpg",
-    "Gacha Checklists/WuWa.md",
-    "5 - Templates/Book Note.md",
-    "Compiler Dog.md",
-    "Test.md",
-    "Gacha Checklists/GBF.md",
-    "Gacha Checklists/GFL2.md",
     "2 - Source Material/Pictures/Pasted image 20251028153407.png",
     "2 - Source Material/Pictures/Pasted image 20251020145957.png",
     "2 - Source Material/Pictures/Operationen von Mengen Abbildung.png",

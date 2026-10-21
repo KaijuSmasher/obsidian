@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Analog vs digital",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Analog vs digital.md"
+      "basename": "02.1 - Boolesche Algebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra.md"
+    },
+    {
+      "basename": "Äquivalenz von Ausdrücken prüfen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Äquivalenz von Ausdrücken prüfen.md"
+    },
+    {
+      "basename": "Mengenalgebra als Beispiel",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Mengenalgebra als Beispiel.md"
+    },
+    {
+      "basename": "Rechenregeln der Schaltalgebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Rechenregeln der Schaltalgebra.md"
+    },
+    {
+      "basename": "Schaltalgebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Schaltalgebra.md"
+    },
+    {
+      "basename": "Boolesche Algebra Definition und Axiome",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Algebra Definition und Axiome.md"
+    },
+    {
+      "basename": "02.1 - Boolesche Algebra (745162)",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra (745162).md"
+    },
+    {
+      "basename": "02-Boolesche-Algebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
     },
     {
       "basename": "01 - Einführung",
       "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/01 - Einführung.md"
+    },
+    {
+      "basename": "01-Einführung",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf"
+    },
+    {
+      "basename": "Abstraktionsebenen im Hardware-Entwurf",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
+    },
+    {
+      "basename": "Analog vs digital",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Analog vs digital.md"
+    },
+    {
+      "basename": "Hardware ist anders",
+      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Hardware ist anders.md"
     },
     {
       "basename": "Stellenwertsysteme",
@@ -25,20 +69,8 @@
       "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Binärcodierung und Signalpegel.md"
     },
     {
-      "basename": "Abstraktionsebenen im Hardware-Entwurf",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
-    },
-    {
       "basename": "Zahlensysteme umrechnen",
       "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Zahlensysteme umrechnen.md"
-    },
-    {
-      "basename": "02-Boolesche-Algebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
-    },
-    {
-      "basename": "01-Einführung",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf"
     },
     {
       "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",

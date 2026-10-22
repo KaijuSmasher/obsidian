@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "01 - Einführung",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung.md"
+    },
+    {
+      "basename": "info1-00 - Einführung",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
+    },
+    {
+      "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf"
+    },
+    {
+      "basename": "02-Boolesche-Algebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
+    },
+    {
       "basename": "DNF und KNF aus der Funktionstabelle",
       "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.2 - Normalformen/DNF und KNF aus der Funktionstabelle.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Boolesche Funktionen",
       "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Funktionen.md"
-    },
-    {
-      "basename": "02-Boolesche-Algebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
     },
     {
       "basename": "Rechenregeln der Schaltalgebra",
@@ -97,14 +109,6 @@
       "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Zahlensysteme umrechnen.md"
     },
     {
-      "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf"
-    },
-    {
-      "basename": "info1-00 - Einführung",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
-    },
-    {
       "basename": "Aufschriebe",
       "path": "Mathematik für Informatik 1 - Analysis/Aufschriebe/Aufschriebe.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "Aufgaben - Altklausuren",
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md"
-    },
-    {
-      "basename": "Notizen",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Notizen/Notizen.md"
     },
     {
       "basename": "README",

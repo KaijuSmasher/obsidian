@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Konstruktionsanleitung für Funktionen.md",
+                "file": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konstruktionsanleitung für Funktionen"
+              "title": "01 - Scheme"
             }
           }
         ]
@@ -194,11 +194,12 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "07ecd957bf135070",
+  "active": "b52f7567a9fcae43",
   "lastOpenFiles": [
+    "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/00 - Einführung.md",
+    "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Konstruktionsanleitung für Funktionen.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/DrRacket und die REPL.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/00 - Einführung.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Zusammengesetzte Ausdrücke.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Testfälle.md",
@@ -209,7 +210,6 @@
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Namen und Bindungen.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Literale.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Lambda-Abstraktion.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Konstruktionsanleitung für Funktionen.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Kommentare.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Funktionsanwendung Applikation.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Exakte und inexakte Zahlen.md",

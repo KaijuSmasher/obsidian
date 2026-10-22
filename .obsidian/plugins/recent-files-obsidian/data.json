@@ -1,36 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Funktionen und Parallelität",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Funktionen und Parallelität.md"
+      "basename": "Konstruktionsanleitung für Funktionen",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Konstruktionsanleitung für Funktionen.md"
     },
     {
-      "basename": "01 - Einführung",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung.md"
+      "basename": "01 - Scheme",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme.md"
+    },
+    {
+      "basename": "DrRacket und die REPL",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/DrRacket und die REPL.md"
+    },
+    {
+      "basename": "00 - Einführung",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/00 - Einführung.md"
+    },
+    {
+      "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf"
+    },
+    {
+      "basename": "Funktionen und Parallelität",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Funktionen und Parallelität.md"
     },
     {
       "basename": "Programmieren ohne Leibniz",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Programmieren ohne Leibniz.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Programmieren ohne Leibniz.md"
     },
     {
       "basename": "Programmierfehler Bugs",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Programmierfehler Bugs.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Programmierfehler Bugs.md"
     },
     {
       "basename": "Verträge und Vertragsbedingungen",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Verträge und Vertragsbedingungen.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Verträge und Vertragsbedingungen.md"
     },
     {
       "basename": "Programmieren mit Funktionen",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Programmieren mit Funktionen.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Programmieren mit Funktionen.md"
     },
     {
       "basename": "Parkplatz-Puzzle",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Parkplatz-Puzzle.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Parkplatz-Puzzle.md"
     },
     {
       "basename": "Leibniz-Prinzip",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/Leibniz-Prinzip.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Leibniz-Prinzip.md"
     },
     {
       "basename": "Unvollständig definierte Funktionen",
@@ -43,10 +59,6 @@
     {
       "basename": "info1-00 - Einführung",
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
-    },
-    {
-      "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion.pdf"
     },
     {
       "basename": "02-Boolesche-Algebra",

@@ -26,4 +26,4 @@ Die Folie zeigt dazu einen **Intel Core i7 (Nehalem), 4-core CPU (2008)**, auf d
 ## Siehe auch
 
 - [[Programmieren mit Funktionen]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung]]
+- [[00 - Einführung]]

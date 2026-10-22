@@ -35,4 +35,4 @@ Das Verhalten von $f$ kann von einer **unübersichtlichen Vielzahl impliziter Pa
 
 - [[Programmierfehler Bugs]]
 - [[Funktionen und Parallelität]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung]]
+- [[00 - Einführung]]

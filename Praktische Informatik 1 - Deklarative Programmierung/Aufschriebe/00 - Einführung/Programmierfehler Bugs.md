@@ -18,4 +18,4 @@ Die Folie zeigt ein Foto der **Motte in Relay 70** einer **Mark II Aiken**, entd
 ## Siehe auch
 
 - [[Programmieren ohne Leibniz]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung]]
+- [[00 - Einführung]]

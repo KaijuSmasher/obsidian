@@ -47,5 +47,5 @@ Die Lösung dafür steht in [[Verträge und Vertragsbedingungen]].
 
 ## Siehe auch
 
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung]]
+- [[00 - Einführung]]
 - [[Programmieren mit Funktionen]]

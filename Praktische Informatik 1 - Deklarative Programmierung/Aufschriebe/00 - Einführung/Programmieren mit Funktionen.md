@@ -37,4 +37,4 @@ Beispiele der Folie:
 
 - [[Leibniz-Prinzip]]: warum man sich auf Funktionen verlassen kann
 - [[Parkplatz-Puzzle]]: ein Beispiel für eine mathematische Funktion
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Einführung/01 - Einführung]]
+- [[00 - Einführung]]

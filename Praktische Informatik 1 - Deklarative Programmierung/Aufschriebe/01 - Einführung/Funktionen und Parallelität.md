@@ -2,6 +2,7 @@
 tags: [Info-1, Funktionen, leibniz, parallelitaet]
 vorlesung: 00-Einführung
 folien: 29
+aliases: [Funktionen und moderne Rechner]
 ---
 
 # Funktionen und moderne Rechner

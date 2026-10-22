@@ -17,6 +17,9 @@ Hinter Funktionen steckt mehr als nur eine kompakte Notation: ein **nachvollzieh
 > [!tip] Zusatz: Anschaulich
 > Gleiche Eingabe, gleiche Ausgabe. Es spielt keine Rolle, wann, wie oft oder in welcher Reihenfolge man $f$ aufruft. Man kann $f(x)$ jederzeit durch seinen Wert $z$ ersetzen, ohne dass sich etwas ändert.
 
+> [!tip] Zusatz: Fachbegriff
+> Diese Eigenschaft ist eng verwandt mit der **referentiellen Transparenz**: Ein Ausdruck darf jederzeit durch seinen Wert ersetzt werden, ohne dass sich das Programmverhalten ändert. Der Begriff steht nicht auf der Folie, taucht aber in der Literatur zur funktionalen Programmierung häufig auf.
+
 ## Gottfried Wilhelm von Leibniz (Folie 25)
 
 - **1646–1716**

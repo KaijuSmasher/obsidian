@@ -20,6 +20,8 @@ Die Funktion kommt also **quasi mit Vertragsbedingungen**. Hält man sich als Au
 > - **$2n \le r$:** Mindestens 2 Räder pro Fahrzeug (nur Motorräder). Sonst wäre $P < 0$.
 > - **$r \le 4n$:** Höchstens 4 Räder pro Fahrzeug (nur PKWs). Sonst wäre $P > n$, also $M < 0$.
 >
+> Die drei Bedingungen sind **notwendig und hinreichend**: Gelten sie, ist $P$ ganzzahlig mit $0 \le P \le n$, also ein sinnvolles Ergebnis. Gilt eine nicht, kann es keinen passenden Parkplatz geben.
+>
 > Die Gegenbeispiele aus [[Parkplatz-Puzzle]] verletzen genau je eine Bedingung:
 >
 > | Aufruf | verletzt |

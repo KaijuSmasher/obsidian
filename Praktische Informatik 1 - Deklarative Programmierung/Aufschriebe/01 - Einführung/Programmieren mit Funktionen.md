@@ -31,7 +31,7 @@ Beispiele der Folie:
 ```
 
 > [!tip] Zusatz: Schreibweise
-> In Scheme steht die Funktion **immer vorne**, dann folgen die Argumente, alles in Klammern (Präfixnotation). Auch $+$ ist eine Funktion mit zwei Argumenten: $(+\ 40\ 2)$ entspricht $40 + 2 = 42$. Das Ergebnis von $(\text{odd?}\ 42)$ ist falsch, weil $42$ gerade ist. Die Folie nennt die Ergebnisse nicht.
+> In Scheme steht die Funktion **immer vorne**, dann folgen die Argumente, alles in Klammern (Präfixnotation). Auch $+$ ist eine Funktion: $(+\ 40\ 2)$ ergibt $42$. (In Scheme darf $+$ sogar beliebig viele Argumente haben, z. B. $(+\ 1\ 2\ 3)$ ergibt $6$.) $(\text{odd?}\ 42)$ ergibt `#f` (falsch), weil $42$ gerade ist. Die Folie nennt die Ergebnisse nicht.
 
 ## Siehe auch
 

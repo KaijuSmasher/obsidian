@@ -37,4 +37,4 @@ Anwendung in der REPL:
 - [[Verträge und Vertragsbedingungen]]
 - [[Lambda-Abstraktion]]
 - [[Funktionsanwendung Applikation]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

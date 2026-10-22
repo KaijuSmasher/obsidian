@@ -42,4 +42,4 @@ Die Folie zitiert Henk Barendregt (*The Impact of Lambda Calculus in Logic and C
 - [[Funktionsanwendung Applikation]]: was passiert, wenn man eine Lambda-Abstraktion anwendet
 - [[Spezialformen]]
 - [[Programmieren mit Funktionen]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

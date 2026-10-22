@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "01 - Scheme",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme.md"
+      "basename": "Skript - Mitschriebe",
+      "path": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Skript - Mitschriebe.md"
     },
     {
       "basename": "00 - Einführung",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/00 - Einführung.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/00 - Einführung.md"
+    },
+    {
+      "basename": "01 - Scheme",
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/01 - Scheme/01 - Scheme.md"
     },
     {
       "basename": "Konstruktionsanleitung für Funktionen",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/Konstruktionsanleitung für Funktionen.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/01 - Scheme/Konstruktionsanleitung für Funktionen.md"
     },
     {
       "basename": "DrRacket und die REPL",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/DrRacket und die REPL.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/01 - Scheme/DrRacket und die REPL.md"
     },
     {
       "basename": "info1-01 – Scheme - Ausdrücke, Auswertung und Abstraktion",
@@ -22,39 +26,39 @@
     },
     {
       "basename": "Funktionen und Parallelität",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Funktionen und Parallelität.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Funktionen und Parallelität.md"
     },
     {
       "basename": "Programmieren ohne Leibniz",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Programmieren ohne Leibniz.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Programmieren ohne Leibniz.md"
     },
     {
       "basename": "Programmierfehler Bugs",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Programmierfehler Bugs.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Programmierfehler Bugs.md"
     },
     {
       "basename": "Verträge und Vertragsbedingungen",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Verträge und Vertragsbedingungen.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Verträge und Vertragsbedingungen.md"
     },
     {
       "basename": "Programmieren mit Funktionen",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Programmieren mit Funktionen.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Programmieren mit Funktionen.md"
     },
     {
       "basename": "Parkplatz-Puzzle",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Parkplatz-Puzzle.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Parkplatz-Puzzle.md"
     },
     {
       "basename": "Leibniz-Prinzip",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/00 - Einführung/Leibniz-Prinzip.md"
+      "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Leibniz-Prinzip.md"
     },
     {
       "basename": "Unvollständig definierte Funktionen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.2 - Normalformen/Unvollständig definierte Funktionen.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Unvollständig definierte Funktionen.md"
     },
     {
       "basename": "01 - Einführung",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/01 - Einführung.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/01 - Einführung.md"
     },
     {
       "basename": "info1-00 - Einführung",
@@ -66,35 +70,35 @@
     },
     {
       "basename": "DNF und KNF aus der Funktionstabelle",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.2 - Normalformen/DNF und KNF aus der Funktionstabelle.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/DNF und KNF aus der Funktionstabelle.md"
     },
     {
       "basename": "02.2 - Normalformen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.2 - Normalformen/02.2 - Normalformen.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/02.2 - Normalformen.md"
     },
     {
       "basename": "Literal Produktterm Implikant Minterm",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.2 - Normalformen/Literal Produktterm Implikant Minterm.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Literal Produktterm Implikant Minterm.md"
     },
     {
       "basename": "Boolesche Funktionen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Funktionen.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Funktionen.md"
     },
     {
       "basename": "Rechenregeln der Schaltalgebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Rechenregeln der Schaltalgebra.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Rechenregeln der Schaltalgebra.md"
     },
     {
       "basename": "02.1 - Boolesche Algebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra.md"
     },
     {
       "basename": "Boolesche Ausdrücke und Tautologie",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Ausdrücke und Tautologie.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Ausdrücke und Tautologie.md"
     },
     {
       "basename": "Boolesche Algebra Definition und Axiome",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Algebra Definition und Axiome.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Algebra Definition und Axiome.md"
     },
     {
       "basename": "TI-1 01 Einführung",
@@ -102,19 +106,19 @@
     },
     {
       "basename": "Äquivalenz von Ausdrücken prüfen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Äquivalenz von Ausdrücken prüfen.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Äquivalenz von Ausdrücken prüfen.md"
     },
     {
       "basename": "Mengenalgebra als Beispiel",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Mengenalgebra als Beispiel.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Mengenalgebra als Beispiel.md"
     },
     {
       "basename": "Schaltalgebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Schaltalgebra.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Schaltalgebra.md"
     },
     {
       "basename": "02.1 - Boolesche Algebra (745162)",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra (745162).md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra (745162).md"
     },
     {
       "basename": "01-Einführung",
@@ -122,43 +126,39 @@
     },
     {
       "basename": "Abstraktionsebenen im Hardware-Entwurf",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
     },
     {
       "basename": "Analog vs digital",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Analog vs digital.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Analog vs digital.md"
     },
     {
       "basename": "Hardware ist anders",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Hardware ist anders.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Hardware ist anders.md"
     },
     {
       "basename": "Stellenwertsysteme",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Stellenwertsysteme.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Stellenwertsysteme.md"
     },
     {
       "basename": "Codierung Grundbegriffe",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Codierung Grundbegriffe.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Codierung Grundbegriffe.md"
     },
     {
       "basename": "Einheiten der Digitaltechnik",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Einheiten der Digitaltechnik.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Einheiten der Digitaltechnik.md"
     },
     {
       "basename": "Binärcodierung und Signalpegel",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Binärcodierung und Signalpegel.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Binärcodierung und Signalpegel.md"
     },
     {
       "basename": "Zahlensysteme umrechnen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Aufschriebe/01 - Einführung/Zahlensysteme umrechnen.md"
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Zahlensysteme umrechnen.md"
     },
     {
-      "basename": "Aufschriebe",
-      "path": "Mathematik für Informatik 1 - Analysis/Aufschriebe/Aufschriebe.md"
-    },
-    {
-      "basename": "Notizen",
-      "path": "Mathematik für Informatik 1 - Analysis/Notizen/Notizen.md"
+      "basename": "Zusammenfassungen",
+      "path": "Mathematik für Informatik 1 - Analysis/Zusammenfassungen/Zusammenfassungen.md"
     },
     {
       "basename": "Aufgaben - Altklausuren",

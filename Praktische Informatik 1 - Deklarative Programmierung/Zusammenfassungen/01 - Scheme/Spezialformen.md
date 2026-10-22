@@ -28,4 +28,4 @@ Mehrere Bausteine dieser Vorlesung werden auf den Folien ausdrücklich **Spezial
 - [[Lambda-Abstraktion]]
 - [[Signaturen]]
 - [[Testfälle]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

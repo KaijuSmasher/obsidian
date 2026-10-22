@@ -41,4 +41,4 @@ Der Code von `parking-lot-cars` ([[Parkplatz-Puzzle in Scheme]]) lässt, etwa f�
 
 - [[Konstruktionsanleitung für Funktionen]]: die Kurzbeschreibung ist dort Schritt 1
 - [[Signaturen]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

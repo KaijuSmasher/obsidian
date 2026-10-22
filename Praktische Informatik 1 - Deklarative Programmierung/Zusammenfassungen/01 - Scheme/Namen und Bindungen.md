@@ -39,4 +39,4 @@ Beispiel: `euro->us$` ist ein gültiger Identifier. `Euro->US$` ist als Identifi
 - [[Spezialformen]]
 - [[Lambda-Abstraktion]]: `define` gibt einer Funktion einen Namen
 - [[DrRacket und die REPL]]: Bindungen im Definitionsfenster
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

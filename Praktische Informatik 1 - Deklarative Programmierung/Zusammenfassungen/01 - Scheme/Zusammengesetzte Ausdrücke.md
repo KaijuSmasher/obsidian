@@ -47,4 +47,4 @@ Die Mathematik braucht neben "Punkt-vor-Strich" weitere Konventionen, die Zweide
 - [[Ausdrücke und Auswertung]]
 - [[Präfixnotation]]
 - [[Funktionsanwendung Applikation]]: Auswertung mit Ersetzung
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

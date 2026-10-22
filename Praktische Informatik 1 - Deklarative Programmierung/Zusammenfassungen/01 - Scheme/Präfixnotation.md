@@ -29,4 +29,4 @@ Die Funktion steht **immer vorne**, dann folgen die Argumente, alles in Klammern
 
 - [[Programmieren mit Funktionen]]: derselbe Gedanke in der Einführung
 - [[Ausdrücke und Auswertung]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

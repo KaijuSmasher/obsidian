@@ -57,4 +57,4 @@ Signaturen werden **bei jeder Anwendung** der zugehörigen Funktion erneut über
 - [[Konstruktionsanleitung für Funktionen]]: die Signatur ist dort Schritt 2
 - [[Literale]]
 - [[Testfälle]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

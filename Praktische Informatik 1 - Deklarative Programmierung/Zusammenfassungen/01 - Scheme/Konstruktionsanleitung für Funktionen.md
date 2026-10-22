@@ -46,4 +46,4 @@ Im Laufe des Semesters wird diese Konstruktionsanleitung **systematisch verfeine
 ## Siehe auch
 
 - [[Programmieren mit Funktionen]]: die Grundidee "Funktion konstruieren, dann anwenden"
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

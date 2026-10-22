@@ -26,4 +26,4 @@ folien: 10
 
 - [[Literale]]
 - [[Testfälle]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

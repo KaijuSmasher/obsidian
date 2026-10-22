@@ -55,4 +55,4 @@ Alle gebundenen Namen sind danach auch in der REPL verfügbar. Gespeichert wird 
 
 - [[Ausdrücke und Auswertung]]
 - [[Namen und Bindungen]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

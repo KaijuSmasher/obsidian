@@ -32,4 +32,4 @@ Beispiel der Folie (Funktion `(lambda (days) …)`, Argument `365`):
 - [[Lambda-Abstraktion]]
 - [[Zusammengesetzte Ausdrücke]]
 - [[Parkplatz-Puzzle in Scheme]]: noch ein Beispiel für Funktionsanwendung
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

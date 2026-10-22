@@ -26,4 +26,4 @@ folien: 5
 - [[Zusammengesetzte Ausdrücke]]: Auswertung in mehreren Schritten
 - [[DrRacket und die REPL]]: wo man Ausdrücke auswerten lässt
 - [[Präfixnotation]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

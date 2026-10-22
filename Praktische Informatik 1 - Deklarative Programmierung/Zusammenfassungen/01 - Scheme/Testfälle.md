@@ -35,4 +35,4 @@ folien: 23
 - [[Konstruktionsanleitung für Funktionen]]: Testfälle sind dort Schritt 3
 - [[Signaturen]]
 - [[Parkplatz-Puzzle in Scheme]]
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

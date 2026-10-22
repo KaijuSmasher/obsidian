@@ -28,4 +28,4 @@ folien: 7
 - [[Exakte und inexakte Zahlen]]
 - [[Ausdrücke und Auswertung]]
 - [[Signaturen]]: Signaturen wie `natural`, `string`, `image` passen zu diesen Literalen
-- [[Praktische Informatik 1 - Deklarative Programmierung/Aufschriebe/01 - Scheme/01 - Scheme]]
+- [[01 - Scheme]]

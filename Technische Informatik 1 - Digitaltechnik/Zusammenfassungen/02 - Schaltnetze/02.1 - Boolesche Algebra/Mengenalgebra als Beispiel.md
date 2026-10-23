@@ -33,12 +33,12 @@ Weil $A \cup B \in \wp(T)$ und $A \cap B \in \wp(T)$ für alle $A, B \in \wp(T)$
 
 ## Axiome in der Mengenalgebra
 
-| Axiom | Gesetz |
-|---|---|
-| Kommutativ | $A \cup B = B \cup A$, $A \cap B = B \cap A$ |
-| Distributiv | $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$, $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$ |
-| Neutral | $A \cap T = A$, $A \cup \emptyset = A$ |
-| Komplement | $A \cap \overline{A} = \emptyset$, $A \cup \overline{A} = T$ |
+| Axiom       | Gesetz                                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Kommutativ  | $A \cup B = B \cup A$ (K1)<br>$A \cap B = B \cap A$ (K2)                                                       |
+| Distributiv | $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$ (D1)<br>$A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$ (D2) |
+| Neutral     | $A \cap T = A$ (N1)<br>$A \cup \emptyset = A$ (N2)                                                             |
+| Komplement  | $A \cap \overline{A} = \emptyset$ (C1)<br>$A \cup \overline{A} = T$ (C2)                                       |
 
 Die Folie 11 zeigt das Distributivgesetz $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$ grafisch mit Venn-Diagrammen: Beide Seiten ergeben dieselbe schraffierte Fläche.
 

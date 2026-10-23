@@ -41,12 +41,12 @@ Die Werte $0$ und $1$ entsprechen den Spannungspegeln Low/High aus [[Binärcodie
 
 ## Huntingtonsche Axiome in der Schaltalgebra
 
-| Axiom | Gesetz |
-|---|---|
-| Kommutativ | $a \lor b = b \lor a$, $a \land b = b \land a$ |
-| Distributiv | $a \land (b \lor c) = (a \land b) \lor (a \land c)$, $a \lor (b \land c) = (a \lor b) \land (a \lor c)$ |
-| Neutral | $a \lor 0 = a$, $a \land 1 = a$ |
-| Komplement | $a \land \overline{a} = 0$, $a \lor \overline{a} = 1$ |
+| Axiom       | Gesetz                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------- |
+| Kommutativ  | $a \lor b = b \lor a$ (K1)<br>$a \land b = b \land a$ (K2)                                                          |
+| Distributiv | $a \land (b \lor c) = (a \land b) \lor (a \land c)$ (D1)<br>$a \lor (b \land c) = (a \lor b) \land (a \lor c)$ (D2) |
+| Neutral     | $a \lor 0 = a$ (N1)<br>$a \land 1 = a$ (N2)                                                                         |
+| Komplement  | $a \land \overline{a} = 0$ (C1)<br>$a \lor \overline{a} = 1$ (C2)                                                   |
 
 ## Siehe auch
 

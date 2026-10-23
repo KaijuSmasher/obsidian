@@ -11,7 +11,7 @@ folien: 28-30
 
 Die Operatoren $(\land, \lor, \overline{\phantom{x}})$ bilden ein vollständiges Operatorensystem.
 
-Beispiel: $a \oplus b$ liefert dasselbe wie $(a \land \overline{b}) \lor (\overline{a} \land b)$, lässt sich also durch $\land$, $\lor$ und Negation ersetzen.
+Beispiel: $a \leftrightarrow  b$ liefert dasselbe wie $(a \land \overline{b}) \lor (\overline{a} \land b)$, lässt sich also durch $\land$, $\lor$ und Negation ersetzen.
 
 ## Tabelle (Folie 29)
 

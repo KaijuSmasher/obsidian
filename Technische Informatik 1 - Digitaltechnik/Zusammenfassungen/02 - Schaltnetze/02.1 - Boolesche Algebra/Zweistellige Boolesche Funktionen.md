@@ -11,11 +11,11 @@ Es gibt $2^{2^2} = 16$ zweistellige Funktionen ([[Boolesche Funktionen]]).
 ## Weitere bekannte Funktionen (Folie 24)
 
 | $x$ | $y$ | Implikation $x \to y$ | Äquivalenz $x \leftrightarrow y$ | NAND | Inverse Implikation $x \leftarrow y$ | Antivalenz (XOR) | NOR |
-|---|---|---|---|---|---|---|---|
-| 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 |
-| 0 | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
-| 1 | 0 | 0 | 0 | 1 | 1 | 1 | 0 |
-| 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 |
+| --- | --- | --------------------- | -------------------------------- | ---- | ------------------------------------ | ---------------- | --- |
+| 0   | 0   | 1                     | 1                                | 1    | 1                                    | 0                | 1   |
+| 0   | 1   | 1                     | 0                                | 1    | 0                                    | 1                | 0   |
+| 1   | 0   | 0                     | 0                                | 1    | 1                                    | 1                | 0   |
+| 1   | 1   | 1                     | 1                                | 0    | 1                                    | 0                | 0   |
 
 - **NAND** $= \overline{x \land y}$ ("nicht und"), **NOR** $= \overline{x \lor y}$ ("nicht oder").
 - Die **Antivalenz** (XOR, auf den Folien $\not\leftrightarrow$) ist $1$, wenn die Eingänge **verschieden** sind.

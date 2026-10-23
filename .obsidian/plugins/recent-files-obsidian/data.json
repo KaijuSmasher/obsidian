@@ -1,12 +1,144 @@
 {
   "recentFiles": [
     {
+      "basename": "02.2 - Normalformen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/02.2 - Normalformen.md"
+    },
+    {
+      "basename": "Unvollständig definierte Funktionen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Unvollständig definierte Funktionen.md"
+    },
+    {
+      "basename": "DNF und KNF aus der Funktionstabelle",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/DNF und KNF aus der Funktionstabelle.md"
+    },
+    {
+      "basename": "Konjunktive Normalform KNF",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Konjunktive Normalform KNF.md"
+    },
+    {
+      "basename": "Disjunktive Normalform DNF",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Disjunktive Normalform DNF.md"
+    },
+    {
+      "basename": "Literal Produktterm Implikant Minterm",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Literal Produktterm Implikant Minterm.md"
+    },
+    {
+      "basename": "02.1 - Boolesche Algebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra.md"
+    },
+    {
+      "basename": "01 - Einführung",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/01 - Einführung.md"
+    },
+    {
+      "basename": "Rechenregeln der Schaltalgebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Rechenregeln der Schaltalgebra.md"
+    },
+    {
+      "basename": "Schaltalgebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Schaltalgebra.md"
+    },
+    {
+      "basename": "Boolesche Ausdrücke und Tautologie",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Ausdrücke und Tautologie.md"
+    },
+    {
+      "basename": "Äquivalenz von Ausdrücken prüfen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Äquivalenz von Ausdrücken prüfen.md"
+    },
+    {
+      "basename": "Vollständige Operatorensysteme",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Vollständige Operatorensysteme.md"
+    },
+    {
+      "basename": "Zweistellige Boolesche Funktionen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Zweistellige Boolesche Funktionen.md"
+    },
+    {
+      "basename": "Boolesche Funktionen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Funktionen.md"
+    },
+    {
+      "basename": "02-Boolesche-Algebra",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
+    },
+    {
+      "basename": "Mengenalgebra als Beispiel",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Mengenalgebra als Beispiel.md"
+    },
+    {
+      "basename": "Boolesche Algebra Definition und Axiome",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Algebra Definition und Axiome.md"
+    },
+    {
+      "basename": "01-Einführung",
+      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf"
+    },
+    {
+      "basename": "Abstraktionsebenen im Hardware-Entwurf",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
+    },
+    {
+      "basename": "Hardware ist anders",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Hardware ist anders.md"
+    },
+    {
+      "basename": "Zahlensysteme umrechnen",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Zahlensysteme umrechnen.md"
+    },
+    {
+      "basename": "Stellenwertsysteme",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Stellenwertsysteme.md"
+    },
+    {
+      "basename": "Einheiten der Digitaltechnik",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Einheiten der Digitaltechnik.md"
+    },
+    {
+      "basename": "Codierung Grundbegriffe",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Codierung Grundbegriffe.md"
+    },
+    {
+      "basename": "Analog vs digital",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Analog vs digital.md"
+    },
+    {
+      "basename": "Binärcodierung und Signalpegel",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Binärcodierung und Signalpegel.md"
+    },
+    {
+      "basename": "Quantisierung und Abtastung",
+      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Quantisierung und Abtastung.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Mathematik für Informatik 1 - Aufgabenblatt 1",
+      "path": "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren/Aufgaben/Mathematik für Informatik 1 - Aufgabenblatt 1.pdf"
+    },
+    {
       "basename": "1. Natürliche Zahlen",
       "path": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/1. Natürliche Zahlen.pdf"
     },
     {
       "basename": "Mathematik für Informatik 1 - Skript",
       "path": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mathematik für Informatik 1 - Skript.pdf"
+    },
+    {
+      "basename": "3. Mengen",
+      "path": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/3. Mengen.pdf"
+    },
+    {
+      "basename": "2. Aussagenlogik",
+      "path": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/2. Aussagenlogik.pdf"
+    },
+    {
+      "basename": "4. Abbildungen",
+      "path": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/4. Abbildungen.pdf"
     },
     {
       "basename": "00 - Einführung",
@@ -57,104 +189,8 @@
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Leibniz-Prinzip.md"
     },
     {
-      "basename": "Unvollständig definierte Funktionen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Unvollständig definierte Funktionen.md"
-    },
-    {
-      "basename": "01 - Einführung",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/01 - Einführung.md"
-    },
-    {
       "basename": "info1-00 - Einführung",
       "path": "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf"
-    },
-    {
-      "basename": "02-Boolesche-Algebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf"
-    },
-    {
-      "basename": "DNF und KNF aus der Funktionstabelle",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/DNF und KNF aus der Funktionstabelle.md"
-    },
-    {
-      "basename": "02.2 - Normalformen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/02.2 - Normalformen.md"
-    },
-    {
-      "basename": "Literal Produktterm Implikant Minterm",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen/Literal Produktterm Implikant Minterm.md"
-    },
-    {
-      "basename": "Boolesche Funktionen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Funktionen.md"
-    },
-    {
-      "basename": "Rechenregeln der Schaltalgebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Rechenregeln der Schaltalgebra.md"
-    },
-    {
-      "basename": "02.1 - Boolesche Algebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra.md"
-    },
-    {
-      "basename": "Boolesche Ausdrücke und Tautologie",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Ausdrücke und Tautologie.md"
-    },
-    {
-      "basename": "Boolesche Algebra Definition und Axiome",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Boolesche Algebra Definition und Axiome.md"
-    },
-    {
-      "basename": "Äquivalenz von Ausdrücken prüfen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Äquivalenz von Ausdrücken prüfen.md"
-    },
-    {
-      "basename": "Mengenalgebra als Beispiel",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Mengenalgebra als Beispiel.md"
-    },
-    {
-      "basename": "Schaltalgebra",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/Schaltalgebra.md"
-    },
-    {
-      "basename": "02.1 - Boolesche Algebra (745162)",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra/02.1 - Boolesche Algebra (745162).md"
-    },
-    {
-      "basename": "01-Einführung",
-      "path": "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/01-Einführung.pdf"
-    },
-    {
-      "basename": "Abstraktionsebenen im Hardware-Entwurf",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Abstraktionsebenen im Hardware-Entwurf.md"
-    },
-    {
-      "basename": "Analog vs digital",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Analog vs digital.md"
-    },
-    {
-      "basename": "Hardware ist anders",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Hardware ist anders.md"
-    },
-    {
-      "basename": "Stellenwertsysteme",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Stellenwertsysteme.md"
-    },
-    {
-      "basename": "Codierung Grundbegriffe",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Codierung Grundbegriffe.md"
-    },
-    {
-      "basename": "Einheiten der Digitaltechnik",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Einheiten der Digitaltechnik.md"
-    },
-    {
-      "basename": "Binärcodierung und Signalpegel",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Binärcodierung und Signalpegel.md"
-    },
-    {
-      "basename": "Zahlensysteme umrechnen",
-      "path": "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/01 - Einführung/Zahlensysteme umrechnen.md"
     },
     {
       "basename": "Zusammenfassungen",
@@ -163,18 +199,6 @@
     {
       "basename": "Aufgaben-Altklausuren",
       "path": "Technische Informatik 1 - Digitaltechnik/Aufgaben-Altklausuren/Aufgaben-Altklausuren.md"
-    },
-    {
-      "basename": "Aufgaben - Altklausuren",
-      "path": "Praktische Informatik 1 - Deklarative Programmierung/Aufgaben - Altklausuren/Aufgaben - Altklausuren.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "README",
-      "path": "KaijuSmasher-Obsidian/README.md"
     }
   ],
   "omittedPaths": [],

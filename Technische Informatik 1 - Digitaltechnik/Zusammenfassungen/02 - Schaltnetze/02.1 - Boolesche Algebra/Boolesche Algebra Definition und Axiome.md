@@ -16,12 +16,12 @@ Eine **Boolesche Algebra** ist eine Menge $V = \{a, b, c, \dots\}$ mit zwei zwei
 
 Dazu kommen die vier **Huntingtonschen Axiome**:
 
-| Axiom | Name | Gesetz |
-|---|---|---|
-| H1 | Kommutativgesetze | $a \otimes b = b \otimes a$ und $a \oplus b = b \oplus a$ |
-| H2 | Distributivgesetze | $a \otimes (b \oplus c) = (a \otimes b) \oplus (a \otimes c)$ und $a \oplus (b \otimes c) = (a \oplus b) \otimes (a \oplus c)$ |
-| H3 | Neutrale Elemente | Es gibt $e, n \in V$ mit $a \otimes e = a$ ($e$ = **Einselement**) und $a \oplus n = a$ ($n$ = **Nullelement**) |
-| H4 | Komplementäre Elemente | Zu jedem $a$ gibt es ein $\overline{a}$ mit $a \otimes \overline{a} = n$ und $a \oplus \overline{a} = e$ |
+| Axiom | Name                   | Gesetz                                                                                                                                   |
+| ----- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| H1    | Kommutativgesetze      | $a \otimes b = b \otimes a$ (K1) <br>$a \oplus b = b \oplus a$ (K2)                                                                      |
+| H2    | Distributivgesetze     | $a \otimes (b \oplus c) = (a \otimes b) \oplus (a \otimes c)$ (D1) <br>$a \oplus (b \otimes c) = (a \oplus b) \otimes (a \oplus c)$ (D2) |
+| H3    | Neutrale Elemente      | Es gibt $e, n \in V$ mit <br>$a \otimes e = a$ ($e$ = **Einselement**) (N1)<br>$a \oplus n = a$ ($n$ = **Nullelement**) (N2)             |
+| H4    | Komplementäre Elemente | Zu jedem $a$ gibt es ein $\overline{a}$ mit <br>$a \otimes \overline{a} = n$ (C1) <br>$a \oplus \overline{a} = e$ (C2)                   |
 
 > [!tip] Zusatz: Was ist hier anders als beim normalen Rechnen?
 > Das zweite Distributivgesetz $a \oplus (b \otimes c) = (a \oplus b) \otimes (a \oplus c)$ gilt bei normalen Zahlen **nicht** ($\otimes$ = Mal, $\oplus$ = Plus). In der Booleschen Algebra sind beide Operationen gleichberechtigt, die Axiome sind *symmetrisch* aufgebaut. Das ist der Kern der **Dualität**: Vertauscht man $\oplus \leftrightarrow \otimes$ und $n \leftrightarrow e$, geht jedes gültige Gesetz wieder in ein gültiges über.

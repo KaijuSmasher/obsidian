@@ -11,14 +11,12 @@
             "id": "07ecd957bf135070",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Skript - Mitschriebe.md",
-                "mode": "preview",
-                "source": false
+                "file": "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/1. Natürliche Zahlen.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Skript - Mitschriebe"
+              "icon": "lucide-file-text",
+              "title": "1. Natürliche Zahlen"
             }
           }
         ]
@@ -194,10 +192,18 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "07ecd957bf135070",
+  "active": "b52f7567a9fcae43",
   "lastOpenFiles": [
-    "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/00 - Einführung.md",
+    "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/1. Natürliche Zahlen.pdf",
+    "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren/Aufgaben",
+    "Mathematik für Informatik 1 - Analysis/Aufgaben - Altklausuren/Aufgaben/Mathematik für Informatik 1 - Aufgabenblatt 1.pdf",
+    "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/4. Abbildungen.pdf",
+    "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/3. Mengen.pdf",
+    "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe/2. Aussagenlogik.pdf",
+    "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mathematik für Informatik 1 - Skript.pdf",
+    "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Mitschriebe",
     "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe/Skript - Mitschriebe.md",
+    "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/00 - Einführung.md",
     "Mathematik für Informatik 1 - Analysis/Skript - Mitschriebe",
     "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/01 - Scheme/01 - Scheme.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/01 - Scheme/Konstruktionsanleitung für Funktionen.md",
@@ -224,14 +230,6 @@
     "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Programmierfehler Bugs.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Programmieren mit Funktionen.md",
     "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Programmieren mit Funktionen.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung/Parkplatz-Puzzle.md",
-    "Praktische Informatik 1 - Deklarative Programmierung/Vorlesungsfolien/info1-00 - Einführung.pdf",
-    "Praktische Informatik 1 - Deklarative Programmierung/Zusammenfassungen/00 - Einführung",
-    "Technische Informatik 1 - Digitaltechnik/Vorlesungsfolien/02-Boolesche-Algebra.pdf",
-    "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.2 - Normalformen",
-    "Technische Informatik 1 - Digitaltechnik/Aufschriebe/02 - Schaltnetze/02.1 - Boolesche Algebra/Untitled",
-    "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze/02.1 - Boolesche Algebra",
-    "Technische Informatik 1 - Digitaltechnik/Zusammenfassungen/02 - Schaltnetze",
     "2 - Source Material/Pictures/Tripod Grip.png",
     "2 - Source Material/Pictures/Overhand Grip.png",
     "2 - Source Material/Pictures/Pivots of the Arm.jpg",
